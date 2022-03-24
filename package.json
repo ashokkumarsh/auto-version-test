@@ -1,6 +1,6 @@
 {
 	"name": "auto-version-test",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Implementation of auto version",
 	"main": "index.js",
 	"scripts": {
