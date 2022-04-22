@@ -1,0 +1,5 @@
+# for getting last tag with annotation
+git describe --tags
+
+# for getting last tag without annotation
+git describe --abbrev=0
